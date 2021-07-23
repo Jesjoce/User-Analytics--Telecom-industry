@@ -17,5 +17,3 @@ The datasets consists of 150001 entries and 56 columns
 ## Methods implemented
 
     ● K-means clustering
-
-## Project structure
